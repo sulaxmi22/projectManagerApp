@@ -1,0 +1,66 @@
+[
+    {
+        "_id": "636ec1afe66d4f0a0c628d97",
+        "firstName": "Ken",
+        "lastName": "Sebastian",
+        "position": "Frontend Developer Lead",
+        "isActive": true,
+        "__v": 0
+    },
+    {
+        "_id": "636ec1f3e66d4f0a0c628d99",
+        "firstName": "Siuly",
+        "lastName": "Tamez",
+        "position": "Frontend Developer Associate",
+        "isActive": true,
+        "__v": 0
+    },
+    {
+        "_id": "636ec204e66d4f0a0c628d9b",
+        "firstName": "Ray",
+        "lastName": "Mallik",
+        "position": "Application Manager",
+        "isActive": true,
+        "__v": 0
+    },
+    {
+        "_id": "636ec212e66d4f0a0c628d9d",
+        "firstName": "John",
+        "lastName": "Henry",
+        "position": "Backend Developer",
+        "isActive": true,
+        "__v": 0
+    },
+    {
+        "_id": "636ec22ce66d4f0a0c628d9f",
+        "firstName": "Peter",
+        "lastName": "Kapowanski",
+        "position": "System Analyst",
+        "isActive": false,
+        "__v": 0
+    },
+    {
+        "_id": "636ec23ae66d4f0a0c628da1",
+        "firstName": "Frontend [Updated].",
+        "lastName": "Manager",
+        "position": "Manager Position",
+        "isActive": true,
+        "__v": 0
+    },
+    {
+        "_id": "636ec245e66d4f0a0c628da3",
+        "firstName": "Backend",
+        "lastName": "Manager",
+        "position": "Manager Position",
+        "isActive": true,
+        "__v": 0
+    },
+    {
+        "_id": "636ec254e66d4f0a0c628da5",
+        "firstName": "Systems",
+        "lastName": "Manager",
+        "position": "Manager Position",
+        "isActive": true,
+        "__v": 0
+    }
+]

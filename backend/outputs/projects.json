@@ -1,0 +1,39 @@
+[
+    {
+        "_id": "636ebdf43fa2a2fae2b6a17e",
+        "name": "Frontend Development Team [Updated].",
+        "description": "This team is a group of 3 frontend developers, responsible for building interactive user interface.",
+        "repository": "https://github.com/topics/frontend",
+        "tasks": [
+            "636ec586da72b9e1fc27bf2e",
+            "636ec5b5da72b9e1fc27bf30"
+        ],
+        "__v": 0,
+        "manager": "636ec23ae66d4f0a0c628da1",
+        "id": "636ebdf43fa2a2fae2b6a17e"
+    },
+    {
+        "_id": "636ebe0b3fa2a2fae2b6a180",
+        "name": "Backend Developer Team",
+        "description": "This team is a group of 2 backend developers, responsible for creating robust APIs.",
+        "repository": "https://github.com/topics/backend",
+        "tasks": [
+            "636ec5e8fc8e3b68155d634d"
+        ],
+        "__v": 0,
+        "manager": "636ec245e66d4f0a0c628da3",
+        "id": "636ebe0b3fa2a2fae2b6a180"
+    },
+    {
+        "_id": "636ebe443fa2a2fae2b6a182",
+        "name": "Systems & Deployment Team",
+        "description": "This team is a group responsible for deployment tasks and troubleshooting system issues.",
+        "repository": "https://github.com/topics/system-design-primer",
+        "tasks": [
+            "636ec5fefc8e3b68155d634f"
+        ],
+        "__v": 0,
+        "manager": "636ec254e66d4f0a0c628da5",
+        "id": "636ebe443fa2a2fae2b6a182"
+    }
+]

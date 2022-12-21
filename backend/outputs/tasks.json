@@ -1,0 +1,108 @@
+[
+    {
+        "timeline": {
+            "assigned": "2022-09-22T00:00:00.000Z",
+            "due": "2022-09-30T00:00:00.000Z",
+            "updated": "2022-10-24T00:00:00.000Z"
+        },
+        "_id": "636ec586da72b9e1fc27bf2e",
+        "name": "Frontend - Overlapping of text",
+        "details": "The description text in the mobile view is overlapping. Hence, making the content unreadeble.",
+        "priority": "high",
+        "status": "in-review",
+        "__v": 0,
+        "user": {
+            "_id": "636ec1afe66d4f0a0c628d97"
+        },
+        "project": [
+            {
+                "_id": "636ebdf43fa2a2fae2b6a17e",
+                "tasks": [
+                    "636ec586da72b9e1fc27bf2e",
+                    "636ec5b5da72b9e1fc27bf30"
+                ],
+                "id": "636ebdf43fa2a2fae2b6a17e"
+            }
+        ],
+        "id": "636ec586da72b9e1fc27bf2e"
+    },
+    {
+        "timeline": {
+            "assigned": "2022-11-22T00:00:00.000Z",
+            "due": "2022-12-10T00:00:00.000Z",
+            "updated": "2022-09-23T00:00:00.000Z"
+        },
+        "_id": "636ec5b5da72b9e1fc27bf30",
+        "name": "Frontend - Button disabled [Updated]",
+        "details": "The button 'PLAY NOW' under the video is disabled. Users are unable to play the video.",
+        "priority": "medium",
+        "status": "assigned",
+        "__v": 0,
+        "user": {
+            "_id": "636ec1f3e66d4f0a0c628d99"
+        },
+        "project": [
+            {
+                "_id": "636ebdf43fa2a2fae2b6a17e",
+                "tasks": [
+                    "636ec586da72b9e1fc27bf2e",
+                    "636ec5b5da72b9e1fc27bf30"
+                ],
+                "id": "636ebdf43fa2a2fae2b6a17e"
+            }
+        ],
+        "id": "636ec5b5da72b9e1fc27bf30"
+    },
+    {
+        "timeline": {
+            "assigned": "2022-09-10T00:00:00.000Z",
+            "due": "2022-12-22T00:00:00.000Z",
+            "updated": "2022-09-22T00:00:00.000Z"
+        },
+        "_id": "636ec5e8fc8e3b68155d634d",
+        "name": "Backend - API is sending wrong response",
+        "details": "The API named 'MockAPI' is showing incorrect response for the field 'Avatar URL'",
+        "priority": "low",
+        "status": "completed",
+        "__v": 0,
+        "user": {
+            "_id": "636ec212e66d4f0a0c628d9d"
+        },
+        "project": [
+            {
+                "_id": "636ebe0b3fa2a2fae2b6a180",
+                "tasks": [
+                    "636ec5e8fc8e3b68155d634d"
+                ],
+                "id": "636ebe0b3fa2a2fae2b6a180"
+            }
+        ],
+        "id": "636ec5e8fc8e3b68155d634d"
+    },
+    {
+        "timeline": {
+            "assigned": "2022-09-20T00:00:00.000Z",
+            "due": "2022-09-24T00:00:00.000Z",
+            "updated": "2022-09-22T00:00:00.000Z"
+        },
+        "_id": "636ec5fefc8e3b68155d634f",
+        "name": "System - Jira is down",
+        "details": "Developers are unable to login to JIRA. URL - 'https://jira.atlassian.com/'",
+        "priority": "high",
+        "status": "in-progress",
+        "__v": 0,
+        "user": {
+            "_id": "636ec204e66d4f0a0c628d9b"
+        },
+        "project": [
+            {
+                "_id": "636ebe443fa2a2fae2b6a182",
+                "tasks": [
+                    "636ec5fefc8e3b68155d634f"
+                ],
+                "id": "636ebe443fa2a2fae2b6a182"
+            }
+        ],
+        "id": "636ec5fefc8e3b68155d634f"
+    }
+]
